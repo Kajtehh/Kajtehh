@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kajtehh
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Java and React
-- 📫 How to reach me? My discord: Kajteh#4767
+- 📫 How to reach me? My discord: kajteh
